@@ -3,3 +3,4 @@ Und dies meine zweite Zeile
 Die dritte Zeile für den dritten Commit
 Die vierte Zeile für den vierten Commit
 Die fünfte Zeile für den fünften Commit
+Und noch eine Zeile für Commit 6
