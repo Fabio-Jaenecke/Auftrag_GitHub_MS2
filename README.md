@@ -2,7 +2,7 @@
 Verwendung von Github - Aufgabe auf MS2 #1
 Lösen Sie den folgenden Auftrag:
 
-Vorgehen
+*Vorgehen* /t
 Erstellen Sie ein Issue mit dem Titel Verwendung von Github - Aufgabe auf MS2.
 Kopieren Sie die untenstehenden Aufgaben.
 Lösen Sie die untenstehenden Aufgaben und verlinken Sie Ihre Ihre Lösung.
