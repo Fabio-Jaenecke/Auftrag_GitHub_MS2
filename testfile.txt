@@ -1,6 +1,3 @@
-Mein Testkommentar
-Und dies meine zweite Zeile
-Die dritte Zeile für den dritten Commit
-Die vierte Zeile für den vierten Commit
-Die fünfte Zeile für den fünften Commit
-Und noch eine Zeile für Commit 6
+Die Testkommentare sind überflüssig.
+Der Showstopper xy wurde hiermit behoben.
+Ein vorbildlicher Commit sollte anschliessend für den Auftrag genügen.
